@@ -43,5 +43,8 @@ pip
 ### Initialize git and add the remote repository
 git init
 
-git remote add origin <code>your-repository-url</code>>
+git remote add origin <code>your-repository-url</code>
+
+### Create and activate the virtual environment
+python3.7 -m virtualenv virtual
 
