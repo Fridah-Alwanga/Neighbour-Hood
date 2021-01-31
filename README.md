@@ -40,3 +40,8 @@ pip
 ### Clone the Repo and rename it to suit your needs.
 <code>https://github.com/Fridah-Alwanga/Neighbour-Hood.git</code>
 
+### Initialize git and add the remote repository
+git init
+
+git remote add origin <your-repository-url>
+
