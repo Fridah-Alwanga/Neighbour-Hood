@@ -43,5 +43,5 @@ pip
 ### Initialize git and add the remote repository
 git init
 
-git remote add origin <your-repository-url>
+git remote add origin <code>your-repository-url</code>>
 
