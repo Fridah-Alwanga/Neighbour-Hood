@@ -30,3 +30,9 @@ Activate a virtual environment on terminal: <code> source virtual/bin/activate</
 Install all the requirements found in requirements file.
 On your terminal run <code>python3.7 manage.py runserver</code>
 Access the live site using the local host provided.
+
+## Getting started
+### Prerequisites
+python3.7
+virtual environment
+pip
