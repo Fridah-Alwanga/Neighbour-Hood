@@ -36,3 +36,7 @@ Access the live site using the local host provided.
 python3.7
 virtual environment
 pip
+
+### Clone the Repo and rename it to suit your needs.
+<code>https://github.com/Fridah-Alwanga/Neighbour-Hood.git</code>
+
