@@ -22,3 +22,11 @@ Create Posts that will be visible to everyone in my neighborhood.
 Change My neighborhood when I decide to move out.
 
 Only view details of a single neighborhood.
+
+## Setup and installations
+Fork the data onto your own personal repository.
+Clone Project to your machine
+Activate a virtual environment on terminal: <code> source virtual/bin/activate</code>
+Install all the requirements found in requirements file.
+On your terminal run <code>python3.7 manage.py runserver</code>
+Access the live site using the local host provided.
