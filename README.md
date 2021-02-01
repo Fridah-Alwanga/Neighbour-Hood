@@ -53,7 +53,8 @@ python3.7 -m virtualenv virtual
 ### Setting up environment variables
 Create a .env file and paste paste the following filling where appropriate:
 
-SECRET_KEY = 'tfpu1z=*m6-fkbiu*d0k8d-y@+r15e+9z7nbr0pt3%c!_9=5(_'
+SECRET_KEY = 'glelh@7++*r%ggr(oolzal&c%hvom8ol5sep^w*h2iuqtc$0*c'
+
 <pre><code>
 DEBUG=True
 DB_NAME='hood'
@@ -63,4 +64,13 @@ DB_HOST='127.0.0.1'
 MODE='dev'
 ALLOWED_HOSTS='.localhost', '.herokuapp.com', '.127.0.0.1'
 DISABLE_COLLECTSTATIC=1
+
 </code></precode>
+
+## Built With
+Python3.7
+Django 2.2.8
+Postgresql
+Boostrap
+HTML
+CSS
