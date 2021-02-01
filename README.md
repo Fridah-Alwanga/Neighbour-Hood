@@ -84,12 +84,12 @@ python3.7 manage.py migrate
 python3.7 manage.py runserver
 
 ## Built With
-Python3.7
-Django 2.2.8
-Postgresql
-Boostrap
-HTML
-CSS
+1. Python3.7
+2. Django 2.2.8
+3. Postgresql
+4. Boostrap
+5. HTML
+6. CSS
 
 ## License
 LICENSED UNDER License: MIT
