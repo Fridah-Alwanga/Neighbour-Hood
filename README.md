@@ -65,7 +65,23 @@ MODE='dev'
 ALLOWED_HOSTS='.localhost', '.herokuapp.com', '.127.0.0.1'
 DISABLE_COLLECTSTATIC=1
 
-</code></precode>
+</code></pre>
+
+## Install dependancies
+Install dependancies that will create an environment for the app to run<code> pip install -r requirements.txt</code>
+
+
+## Make and run migrations
+<pre><code>
+python3.7 manage.py check
+python manage.py makemigrations news
+python3.7 manage.py sqlmigrate news 0001
+python3.7 manage.py migrate
+</code></pre>
+
+
+## Run the app
+python3.7 manage.py runserver
 
 ## Built With
 Python3.7
@@ -74,3 +90,7 @@ Postgresql
 Boostrap
 HTML
 CSS
+
+## License
+LICENSED UNDER License: MIT
+
